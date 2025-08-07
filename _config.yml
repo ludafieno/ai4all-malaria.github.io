@@ -1,2 +1,8 @@
 title: Malaria Cell Classification
-theme: jekyll-theme-midnight
+description: AI-powered malaria detection using convolutional neural networks
+author: AI4ALL Malaria Team
+url: "https://ludafieno.github.io"
+baseurl: "/ai4all-malaria.github.io"
+
+# Build settings
+markdown: kramdown
